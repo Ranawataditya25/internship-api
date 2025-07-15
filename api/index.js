@@ -149,7 +149,7 @@ const users = [
 ];
 
 app.get("/", (req, res) => {
-  res.send("✅ This is the Tutor/Student API. Visit /api/users to see data.");
+  res.send("✅ This is the Mentor/Student API. Visit /api/users to see data.");
 });
 
 
