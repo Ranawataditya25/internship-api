@@ -1,0 +1,17 @@
+{
+  "name": "internship-api",
+  "version": "1.0.0",
+  "description": "basic api for internship",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "nodemon api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
