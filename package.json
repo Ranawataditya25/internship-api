@@ -2,16 +2,13 @@
   "name": "internship-api",
   "version": "1.0.0",
   "description": "basic api for internship",
-  "main": "index.js",
+  "main": "users.js",
   "type": "module",
   "scripts": {
-    "start": "node api/index.js",
-    "dev": "nodemon api/index.js"
+    "start": "node api/users.js",
+    "dev": "nodemon api/users.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "author": "Aditya Raj Singh",
+  "license": "ISC"
 }
